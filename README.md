@@ -1,4 +1,4 @@
-# geth-contract-bindings
+# go-contract-bindings
 
 This repo is a boilerplate for generating Go source able to call methods on smart contracts from the Uniswap v2 project, through a program called `abigen`, which is part of the `go-ethereum` project.
 
